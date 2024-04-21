@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.DhzKnR-G.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"backend/redis/index.md","filePath":"backend/redis/index.md"}'),n={name:"backend/redis/index.md"};function r(d,s,c,i,o,p){return a(),t("div")}const f=e(n,[["render",r]]);export{m as __pageData,f as default};
