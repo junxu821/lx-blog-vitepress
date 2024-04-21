@@ -5,6 +5,7 @@ export default defineConfig({
   title: "一船霜白",
   description: "一船霜白的个人博客",
   cleanUrls: true,
+
   themeConfig: {
    
     logo: {

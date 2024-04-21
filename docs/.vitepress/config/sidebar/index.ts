@@ -7,6 +7,7 @@ import { netSidebar } from './net';
 import { algorithmSidebar } from './algorithm';
 import {browserSidebar} from'./browser'
 import { htmlSidebar } from './html';
+import { canvasSidebar } from './canvas';
 export const sidebar: DefaultTheme.Sidebar = {
   ...htmlSidebar,
   ...cssSidebar,
@@ -15,5 +16,6 @@ export const sidebar: DefaultTheme.Sidebar = {
   ...netSidebar,
   ...algorithmSidebar,
   ...browserSidebar,
-  ...jsSidebar
+  ...jsSidebar,
+  ...canvasSidebar
 };

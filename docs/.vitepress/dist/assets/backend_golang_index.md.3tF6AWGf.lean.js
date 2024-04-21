@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as n}from"./chunks/framework.DhzKnR-G.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"backend/golang/index.md","filePath":"backend/golang/index.md"}'),t={name:"backend/golang/index.md"};function o(c,r,d,s,i,p){return n(),a("div")}const m=e(t,[["render",o]]);export{l as __pageData,m as default};

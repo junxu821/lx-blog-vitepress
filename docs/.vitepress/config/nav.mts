@@ -37,6 +37,10 @@ export const nav: DefaultTheme.NavItem[] = [
                 link: '/frontend/webpack/',
             },
             {
+                text: 'canvas',
+                link: '/frontend/canvas/',
+            },
+            {
                 text: '浏览器',
                 link: '/frontend/browser/',
             },
@@ -49,10 +53,10 @@ export const nav: DefaultTheme.NavItem[] = [
                 text: 'Java',
                 link: '/backend/java/',
             },
-            {
-                text: 'Golang',
-                link: '/backend/golang/',
-            },
+            // {
+            //     text: 'Golang',
+            //     link: '/backend/golang/',
+            // },
             {
                 text: 'Node',
                 link: '/backend/nodeJs/',

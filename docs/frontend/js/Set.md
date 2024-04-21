@@ -1,0 +1,13 @@
+# Set
+* add方法,has,delete
+* 也可以使用valueOf,entries,kyes迭代,但是valueOf,keys结果一样,entries每一项都是一个数组,数组两个值一样是值.
+* forEach
+* 有顺序
+* 初始化传一个可迭代的对象,或者用add往里面加元素
+# WeakSet
+* 弱指的值
+* 值只能是对象类型
+* 可传入可迭代对象进行初始化
+* 不可迭代
+* 没有clear方法,
+* 值随时会被销毁
