@@ -52,7 +52,7 @@ export default defineConfig({
     ["link", { rel: "icon", href: "/favicon.ico" }],
     // ["link", { rel: "stylesheet", href: "/styles/custom.css" }],
   ],
-  base:'/docs/',
+  // base:'//',
   // srcDir: "./src",
   markdown: {
     lineNumbers: true, // 是否显示行数，默认false

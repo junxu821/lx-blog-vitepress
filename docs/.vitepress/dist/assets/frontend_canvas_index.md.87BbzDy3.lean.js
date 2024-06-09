@@ -1,0 +1,1 @@
+import{_ as e,c as n,o as t}from"./chunks/framework.Baw4MH5z.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"frontend/canvas/index.md","filePath":"frontend/canvas/index.md"}'),a={name:"frontend/canvas/index.md"};function r(o,s,c,d,i,f){return t(),n("div")}const m=e(a,[["render",r]]);export{_ as __pageData,m as default};

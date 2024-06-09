@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.DhzKnR-G.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"life.md","filePath":"life.md"}'),r={name:"life.md"};function o(s,c,n,i,f,l){return a(),t("div")}const d=e(r,[["render",o]]);export{_ as __pageData,d as default};
