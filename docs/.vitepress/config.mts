@@ -49,7 +49,7 @@ export default defineConfig({
     },
   },
   head: [
-    ["link", { rel: "icon", href: "/favicon.ico" }],
+    ["link", { rel: "icon", href: "http://img.xjlyh.site/icon/favicon.ico" }],
     // ["link", { rel: "stylesheet", href: "/styles/custom.css" }],
   ],
   // base:'//',
