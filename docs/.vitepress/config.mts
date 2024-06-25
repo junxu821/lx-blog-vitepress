@@ -22,7 +22,7 @@ export default defineConfig({
 
     sidebar,
 
-    socialLinks: [{ icon: "github", link: "https://github.com/xvjun821" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/junxu821" }],
     search: {
       provider: "local",
       options: {
@@ -45,11 +45,11 @@ export default defineConfig({
     footer: {
       message: "Released under the MIT License.",
       copyright:
-        'Copyright © 2024-present <a href="https://github.com/xvjun821">一船霜白</a>',
+        'Copyright © 2024-present <a href="https://github.com/junxu821">一船霜白</a>',
     },
   },
   head: [
-    ["link", { rel: "icon", href: "http://img.xjlyh.site/icon/favicon.ico" }],
+    ["link", { rel: "icon", href: "http://img.xu69.com/2024/06/08/8b4d2018d1eb4ea49088c3024671cf2d.jpg" }],
     // ["link", { rel: "stylesheet", href: "/styles/custom.css" }],
   ],
   // base:'//',
