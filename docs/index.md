@@ -5,7 +5,7 @@ titleTemplate: Hi，终于等到你
 editLink: true
 lastUpdated: true
 hero:
-  name: "一船霜白"
+  name: "徐徐"
   text: "Man proposes,God disposes"
   tagline: /人间清醒/三好青年/代码控
   image:

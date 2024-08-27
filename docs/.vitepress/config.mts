@@ -2,15 +2,15 @@ import { defineConfig } from "vitepress";
 import { nav } from "./config/nav.mts";
 import { sidebar } from "./config/sidebar";
 export default defineConfig({
-  title: "一船霜白",
-  description: "一船霜白的个人博客",
+  title: "徐徐",
+  description: "徐徐的个人博客",
   cleanUrls: true,
 
   themeConfig: {
    
     logo: {
       src: "/avatar.jpg",
-      alt: "一船霜白",
+      alt: "徐徐",
     },
     outline: {
       level: [1, 6],
@@ -45,11 +45,11 @@ export default defineConfig({
     footer: {
       message: "Released under the MIT License.",
       copyright:
-        'Copyright © 2024-present <a href="https://github.com/junxu821">一船霜白</a>',
+        'Copyright © 2024-present <a href="https://github.com/junxu821">徐徐</a>',
     },
   },
   head: [
-    ["link", { rel: "icon", href: "http://img.xu69.com/2024/06/08/8b4d2018d1eb4ea49088c3024671cf2d.jpg" }],
+    ["link", { rel: "icon", href: "https://www.xu69.com/xu-resource/ico.png" }],
     // ["link", { rel: "stylesheet", href: "/styles/custom.css" }],
   ],
   // base:'//',

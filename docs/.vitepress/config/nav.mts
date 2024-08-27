@@ -97,7 +97,7 @@ export const nav: DefaultTheme.NavItem[] = [
         items: [
             { text: 'Github', link: 'https://github.com/xvjun821' },
             { text: 'Gitee', link: 'https://gitee.com/xv_jun' },
-            { text: 'Lx博客', link: 'http://xjlyh.site/' },
+            { text: '徐徐爱coding', link: 'https://www.xu69.com' },
             
         ],
     }
