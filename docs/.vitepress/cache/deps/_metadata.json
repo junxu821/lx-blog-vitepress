@@ -1,49 +1,49 @@
 {
-  "hash": "4babfb90",
-  "configHash": "a0ee0074",
-  "lockfileHash": "fd87971e",
-  "browserHash": "cf0f446b",
+  "hash": "8952ff28",
+  "configHash": "ab208e31",
+  "lockfileHash": "fc33fb64",
+  "browserHash": "b37b8b38",
   "optimized": {
     "vue": {
       "src": "../../../../node_modules/.pnpm/vue@3.4.23/node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "a91a46df",
+      "fileHash": "5c692f69",
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
       "src": "../../../../node_modules/.pnpm/@vue+devtools-api@7.0.27_vue@3.4.23/node_modules/@vue/devtools-api/dist/index.js",
       "file": "vitepress___@vue_devtools-api.js",
-      "fileHash": "5d64872c",
+      "fileHash": "5fa23076",
       "needsInterop": false
     },
     "vitepress > @vueuse/core": {
       "src": "../../../../node_modules/.pnpm/@vueuse+core@10.9.0_vue@3.4.23/node_modules/@vueuse/core/index.mjs",
       "file": "vitepress___@vueuse_core.js",
-      "fileHash": "311a7a8d",
+      "fileHash": "b0a120ee",
       "needsInterop": false
     },
     "vitepress > @vueuse/integrations/useFocusTrap": {
       "src": "../../../../node_modules/.pnpm/@vueuse+integrations@10.9.0_focus-trap@7.5.4_vue@3.4.23/node_modules/@vueuse/integrations/useFocusTrap.mjs",
       "file": "vitepress___@vueuse_integrations_useFocusTrap.js",
-      "fileHash": "a6afd840",
+      "fileHash": "0a27880a",
       "needsInterop": false
     },
     "vitepress > mark.js/src/vanilla.js": {
       "src": "../../../../node_modules/.pnpm/mark.js@8.11.1/node_modules/mark.js/src/vanilla.js",
       "file": "vitepress___mark__js_src_vanilla__js.js",
-      "fileHash": "f5b2f644",
+      "fileHash": "67a8d68c",
       "needsInterop": false
     },
     "vitepress > minisearch": {
       "src": "../../../../node_modules/.pnpm/minisearch@6.3.0/node_modules/minisearch/dist/es/index.js",
       "file": "vitepress___minisearch.js",
-      "fileHash": "0d4e542f",
+      "fileHash": "35aa497c",
       "needsInterop": false
     },
     "oh-my-live2d": {
       "src": "../../../../node_modules/.pnpm/oh-my-live2d@0.16.1/node_modules/oh-my-live2d/dist/index.js",
       "file": "oh-my-live2d.js",
-      "fileHash": "d4d12f33",
+      "fileHash": "da917b81",
       "needsInterop": false
     }
   },

@@ -49,7 +49,7 @@ export default defineConfig({
     },
   },
   head: [
-    ["link", { rel: "icon", href: "https://www.xu69.com/xu-resource/ico.png" }],
+    ["link", { rel: "icon", href: "https://www.xu69.com/xu-resource/favicon.ico" }],
     // ["link", { rel: "stylesheet", href: "/styles/custom.css" }],
   ],
   // base:'//',
